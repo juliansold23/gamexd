@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://github.com/LightningMods/PS4-Store/releases/download/4.5/Store-R2.pkg": {
+      "title_id": "CUSA09267",
+      "region": "USA",
+      "name": "HB Store",
+      "version": "01.04",
+      "release": "07-28-2025",
+      "size": 7746420736,
+      "min_fw": "9.00",
+      "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaX2ELSQITqvKKWDto5Y8m_caPABcOtWxNf-nF5PzCDM5hacdPNaQ5Eos&s=10"
+    },
+    "https://pkg-zone.com/download/ps4/APOL00004/latest": {
+      "title_id": "CUSA29979",
+      "region": "EUR",
+      "name": "Apollo Save Tool",
+      "version": "01.03",
+      "release": "11-15-2013",
+      "size": 489095168,
+      "min_fw": "9.00",
+      "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_8h_kcXv0sHvMtMleoc-oLhj_xDOO2ArDncdcLD3nPe_-H5eyr3NcFLl&s=10"
+    }
+  }
+}
