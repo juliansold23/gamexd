@@ -10,7 +10,7 @@
       "min_fw": "9.00",
       "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLaX2ELSQITqvKKWDto5Y8m_caPABcOtWxNf-nF5PzCDM5hacdPNaQ5Eos&s=10"
     },
-    "https://pkg-zone.com/download/ps4/APOL00004/latest": {
+    "https://github.com/bucanero/apollo-ps4/releases/latest/download/IV0000-APOL00004_00-APOLLO0000000PS4.pkg": {
       "title_id": "CUSA29979",
       "region": "EUR",
       "name": "Apollo Save Tool",
@@ -19,4 +19,6 @@
       "size": 123,
       "min_fw": "9.00",
       "cover_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_8h_kcXv0sHvMtMleoc-oLhj_xDOO2ArDncdcLD3nPe_-H5eyr3NcFLl&s=10"
-    },
+    }
+  }
+}
